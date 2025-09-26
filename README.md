@@ -22,6 +22,14 @@ It is an **AI model** that detects whether a person in an image is **wearing a f
 
 ---
 
+> **Note:** Due to GitHub file size limits, the dataset and the trained model are stored on Google Drive.
+> You can download them here:
+
+👉 **Download Project Files (Google Drive)**
+
+---
+
+
 ## 🚀 How to Run
 
 ### 1. Clone the repository
@@ -31,15 +39,8 @@ cd face-mask-detection
 ```
 
 
-> **Note:** Due to GitHub file size limits, the dataset and the trained model are stored on Google Drive.
-> You can download them here:
 
-👉 **Download Project Files (Google Drive)**
 
----
 
-## After downloading
-
-After downloading, place the files inside the project directory with the following structure:
 
 
