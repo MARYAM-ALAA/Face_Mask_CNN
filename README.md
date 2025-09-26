@@ -25,9 +25,9 @@ It is an **AI model** that detects whether a person in an image is **wearing a f
 > **Note:** Due to GitHub file size limits, the dataset and the trained model are stored on Google Drive.
 > You can download them here:
 
-👉 **Download Project Files (Google Drive)**
+📂 [**Download Project Files (Google Drive)**](https://drive.google.com/drive/folders/1ArYI8ZzcCte6FAMnT0YuBGT-JdJYgpHf?usp=sharing)
 
-https://drive.google.com/drive/folders/1ArYI8ZzcCte6FAMnT0YuBGT-JdJYgpHf?usp=sharing
+
 ---
 
 
