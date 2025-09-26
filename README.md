@@ -27,6 +27,7 @@ It is an **AI model** that detects whether a person in an image is **wearing a f
 
 👉 **Download Project Files (Google Drive)**
 
+https://drive.google.com/drive/folders/1ArYI8ZzcCte6FAMnT0YuBGT-JdJYgpHf?usp=sharing
 ---
 
 
