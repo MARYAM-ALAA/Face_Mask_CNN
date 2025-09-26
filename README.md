@@ -28,7 +28,7 @@ It is an **AI model** that detects whether a person in an image is **wearing a f
 ```bash
 git clone https://github.com/your-username/face-mask-detection.git
 cd face-mask-detection
-
+```
 
 
 > **Note:** Due to GitHub file size limits, the dataset and the trained model are stored on Google Drive.
