@@ -1,7 +1,0 @@
-flask
-flask-cors
-torch
-torchvision
-opencv-python
-numpy
-uvicorn[standard]
